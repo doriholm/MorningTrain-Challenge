@@ -1,3 +1,5 @@
+//Author: Halldór Hólm K. Lyngmo
+
 //include the csvParser module
 const csvParser = require("./csvParser");
 

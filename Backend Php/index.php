@@ -1,4 +1,6 @@
 <?php
+    //Author: Halldór Hólm K. Lyngmo
+
     //Get the class template
     require_once('templateClass.php');
 
